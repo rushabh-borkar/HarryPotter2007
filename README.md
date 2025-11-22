@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=200&section=header&text=Rushabh%20Borkar&fontSize=60&fontColor=E5E5E5&animation=twinkling&color=0:0B0F18,100:1E2635" />
+</p>
+
 # 💫 About Me:
 🔭 I’m currently working on Artificial Intelligence <br>🌱 I’m currently learning Front end(Html, Css, JS), Programming(Java, Python)<br>👯 I'm looking to collaborate with anyone looking to improve usability of tech<br>
 
