@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=200&section=header&text=Rushabh%20Borkar&fontSize=60&fontColor=E5E5E5&animation=twinkling&color=0:0B0F18,100:1E2635" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=200&section=header&text=Rushabh%20Borkar&fontSize=60&fontColor=E5E5E5&animation=twinkling&color=0:0B0F18,50:FE019A,100:FF13F0" />
 </p>
 
 # 💫 About Me:
