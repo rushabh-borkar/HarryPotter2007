@@ -1,13 +1,13 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=200&section=header&text=Rushabh%20Borkar&fontSize=60&fontColor=E5E5E5&animation=twinkling&color=0:0B0F18,50:FE019A,100:FF13F0" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=200&section=header&text=RUSHABH%20BORKAR&fontSize=60&fontColor=E5E5E5&animation=twinkling&color=0:1A1B26,50:7AA2F7,100:BB9AF7" />
 </p>
 
-<h2 align="center">🔥 RUSHABH BORKAR 🔥</h2>
+<h2 align="center">🌙 RUSHABH BORKAR</h2>
 <h3 align="center">AI/ML | Java | JavaScript | Python 🚀</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HarryPotter2007&label=Profile%20Views&color=red&style=flat" />
-  <img src="https://img.shields.io/github/followers/HarryPotter2007?label=Followers&style=flat&color=red" />
+  <img src="https://komarev.com/ghpvc/?username=HarryPotter2007&label=Profile%20Views&color=7aa2f7&style=flat" />
+  <img src="https://img.shields.io/github/followers/HarryPotter2007?label=Followers&style=flat&color=bb9af7" />
 </p>
 
 ---
@@ -20,22 +20,44 @@
 ---
 
 ## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rushabhborkar.12@gmail.com)
+[![email](https://img.shields.io/badge/Email-1A1B26?style=plastic&logo=gmail&logoColor=white)](mailto:rushabhborkar.12@gmail.com)
 
 ---
 
 # 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=plastic&logo=r&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
+![Java](https://img.shields.io/badge/Java-1A1B26?style=plastic&logo=openjdk&logoColor=7aa2f7)
+![JavaScript](https://img.shields.io/badge/JavaScript-1A1B26?style=plastic&logo=javascript&logoColor=bb9af7)
+![Python](https://img.shields.io/badge/Python-1A1B26?style=plastic&logo=python&logoColor=7aa2f7)
+![HTML5](https://img.shields.io/badge/HTML5-1A1B26?style=plastic&logo=html5&logoColor=bb9af7)
+![CSS3](https://img.shields.io/badge/CSS3-1A1B26?style=plastic&logo=css3&logoColor=7aa2f7)
+![React](https://img.shields.io/badge/React-1A1B26?style=plastic&logo=react&logoColor=bb9af7)
+![Git](https://img.shields.io/badge/Git-1A1B26?style=plastic&logo=git&logoColor=7aa2f7)
+![GitHub](https://img.shields.io/badge/GitHub-1A1B26?style=plastic&logo=github&logoColor=bb9af7)
+
+---
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=HarryPotter2007&theme=tokyonight&hide_border=true&show_icons=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=HarryPotter2007&theme=tokyonight&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=HarryPotter2007&theme=tokyonight&hide_border=true&layout=compact)
+
+---
+
+## 📈 Contribution Graph
+[![Rushabh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HarryPotter2007&theme=tokyo-night)](https://github.com/HarryPotter2007)
+
+---
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=HarryPotter2007&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6)
+
+---
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=HarryPotter2007&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
