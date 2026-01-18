@@ -5,6 +5,11 @@
 <h2 align="center">🔥 RUSHABH BORKAR 🔥</h2>
 <h3 align="center">AI/ML | Java | JavaScript | Python 🚀</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=HarryPotter2007&label=Profile%20Views&color=red&style=flat" />
+  <img src="https://img.shields.io/github/followers/HarryPotter2007?label=Followers&style=flat&color=red" />
+</p>
+
 ---
 
 # 💫 About Me:
@@ -32,37 +37,5 @@
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
-![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=plastic&logo=adobe&logoColor=white)
-![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white)
-![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=plastic&logo=Adobe%20After%20Effects&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)_)
 
----
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=HarryPotter2007&theme=tokyonight&hide_border=true&show_icons=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=HarryPotter2007&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HarryPotter2007&theme=tokyonight&hide_border=true&layout=compact)
-
----
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=HarryPotter2007&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=HarryPotter2007&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
-<h1 align="center">Watch a 🐍 eating my contribution graph</h1>
-<p align="center">
-  <img src="https://github.com/HarryPotter2007/HarryPotter2007/blob/output/github-contribution-grid-snake.svg" alt="snake" />
-</p>
