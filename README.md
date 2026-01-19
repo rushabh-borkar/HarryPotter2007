@@ -86,12 +86,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
-
-## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=HarryPotter2007&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
----
-
 <p align="center">
   ⭐ If you like my work, consider following me!
 </p>
