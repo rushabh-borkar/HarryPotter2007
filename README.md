@@ -65,15 +65,6 @@
 ✅ React + Next.js  
 ✅ Machine Learning Basics  
 
----
-
-## 🚀 Featured Projects (Add your links here)
-- 🎬 **RushabhFlix (Netflix Portfolio)** → Coming Soon  
-- 📊 **Java DSA Tracker** → Coming Soon  
-- ⚡ **JavaScript Mini Apps** → Coming Soon  
-
----
-
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=HarryPotter2007&theme=tokyonight&hide_border=true&show_icons=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=HarryPotter2007&theme=tokyonight&hide_border=true)<br/>
