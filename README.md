@@ -76,19 +76,14 @@
 ---
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=HarryPotter2007&theme=tokyonight&hide_border=true&show_icons=true)
-![](https://nirzak-streak-stats.vercel.app/?user=HarryPotter2007&theme=tokyonight&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=HarryPotter2007&theme=tokyonight&hide_border=true&show_icons=true&count_private=true)
+![](https://streak-stats.demolab.com/?user=HarryPotter2007&theme=tokyonight&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HarryPotter2007&theme=tokyonight&hide_border=true&layout=compact)
 
 ---
 
 ## 📈 Contribution Graph
 [![Rushabh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HarryPotter2007&theme=tokyo-night)](https://github.com/HarryPotter2007)
-
----
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=HarryPotter2007&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6)
 
 ---
 
