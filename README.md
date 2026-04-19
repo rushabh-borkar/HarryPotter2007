@@ -156,15 +156,7 @@ currently  : Building ML projects from scratch & grinding DSA daily
   <img src="https://streak-stats.demolab.com/?user=HarryPotter2007&theme=github-dark-blue&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
 </p>
 
----
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HarryPotter2007&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=6&column=7" />
-</p>
-
----
 
 ## 📈 Contribution Graph
 
