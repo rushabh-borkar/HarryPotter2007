@@ -164,15 +164,6 @@ currently  : Building ML projects from scratch & grinding DSA daily
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=HarryPotter2007&theme=github-compact&hide_border=true&color=58A6FF&line=58A6FF&point=FFFFFF" />
 </p>
 
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/HarryPotter2007/HarryPotter2007/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
 
 ## ✍️ Dev Quote
 
