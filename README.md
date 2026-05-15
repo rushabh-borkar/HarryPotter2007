@@ -144,20 +144,6 @@ currently  : Building ML projects from scratch & grinding DSA daily
 </p>
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=HarryPotter2007&theme=github_dark&hide_border=true&show_icons=true&count_private=true&icon_color=58A6FF&title_color=58A6FF" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarryPotter2007&theme=github_dark&hide_border=true&layout=compact&title_color=58A6FF" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=HarryPotter2007&theme=github-dark-blue&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
-</p>
-
-
-
 ## 📈 Contribution Graph
 
 <p align="center">
