@@ -1,22 +1,17 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=RUSHABH%20BORKAR&fontSize=55&fontColor=CDD6F4&animation=fadeIn&color=0:0D1117,50:161B22,100:0D1117&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Java%20DSA%20%7C%20Builder&descSize=18&descAlignY=60&descColor=6E7681" />
 </p>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=First-year+CSE+%40+IARE+Hyderabad;AI%2FML+Engineering+Track;Java+DSA+%E2%86%92+FAANG+Roadmap;Building+from+scratch%2C+every+day." />
 </p>
-
 <p align="center">
   <img src="https://img.shields.io/github/followers/HarryPotter2007?label=Followers&style=flat-square&color=58A6FF&labelColor=0D1117" />
   <img src="https://img.shields.io/github/stars/HarryPotter2007?label=Stars&style=flat-square&color=58A6FF&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/Open%20To-Collabs-58A6FF?style=flat-square&labelColor=0D1117" />
   <img src="https://komarev.com/ghpvc/?username=HarryPotter2007&style=flat-square&color=58A6FF&label=Profile+Views" />
 </p>
-
 <br/>
-
-## 👤 About Me
-
+👤 About Me
 ```yaml
 name       : Rushabh Borkar
 alias      : Rux / LunarX
@@ -29,32 +24,23 @@ stack      : [ Python, Java, JavaScript, NumPy, Pandas, Scikit-learn ]
 interests  : [ AI, Anime, Sneaker Culture, Gaming ]
 currently  : Building ML models from scratch & grinding DSA every single day
 motivation : "I don't use libraries as a crutch — I implement the math first, then abstract it."
-` ` `
-
+```
 ---
-
-## 📈 GitHub Stats
-
+📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HarryPotter2007&show_icons=true&theme=github_dark&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=CDD6F4&bg_color=0D1117" height="160" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarryPotter2007&theme=github-dark-blue&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" height="160" />
 </p>
-
 ---
-
-## 🌐 Socials
-
+🌐 Socials
 <p align="left">
   <a href="mailto:rushabhborkar.12@gmail.com"><img src="https://img.shields.io/badge/Gmail-0D1117?style=flat-square&logo=gmail&logoColor=58A6FF" /></a>
   <a href="https://instagram.com/Rushabh_sus"><img src="https://img.shields.io/badge/Instagram-0D1117?style=flat-square&logo=instagram&logoColor=58A6FF" /></a>
   <a href="https://leetcode.com/u/LunarX/"><img src="https://img.shields.io/badge/LeetCode-0D1117?style=flat-square&logo=leetcode&logoColor=58A6FF" /></a>
   <a href="https://github.com/HarryPotter2007"><img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=58A6FF" /></a>
 </p>
-
 ---
-
-## 💻 Languages
-
+💻 Languages
 <p align="left">
   <img src="https://img.shields.io/badge/Java-0D1117?style=flat-square&logo=openjdk&logoColor=58A6FF" />
   <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=58A6FF" />
@@ -62,11 +48,8 @@ motivation : "I don't use libraries as a crutch — I implement the math first, 
   <img src="https://img.shields.io/badge/HTML5-0D1117?style=flat-square&logo=html5&logoColor=58A6FF" />
   <img src="https://img.shields.io/badge/CSS3-0D1117?style=flat-square&logo=css3&logoColor=58A6FF" />
 </p>
-
 ---
-
-## 🤖 AI / ML Stack
-
+🤖 AI / ML Stack
 <p align="left">
   <img src="https://img.shields.io/badge/NumPy-0D1117?style=flat-square&logo=numpy&logoColor=58A6FF" />
   <img src="https://img.shields.io/badge/Pandas-0D1117?style=flat-square&logo=pandas&logoColor=58A6FF" />
@@ -74,11 +57,8 @@ motivation : "I don't use libraries as a crutch — I implement the math first, 
   <img src="https://img.shields.io/badge/Scikit--learn-0D1117?style=flat-square&logo=scikitlearn&logoColor=58A6FF" />
   <img src="https://img.shields.io/badge/Jupyter-0D1117?style=flat-square&logo=jupyter&logoColor=58A6FF" />
 </p>
-
 ---
-
-## 🧰 Tools & Platforms
-
+🧰 Tools & Platforms
 <p align="left">
   <img src="https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=58A6FF" />
   <img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=58A6FF" />
@@ -88,19 +68,13 @@ motivation : "I don't use libraries as a crutch — I implement the math first, 
   <img src="https://img.shields.io/badge/Notion-0D1117?style=flat-square&logo=notion&logoColor=58A6FF" />
   <img src="https://img.shields.io/badge/Windows-0D1117?style=flat-square&logo=windows&logoColor=58A6FF" />
 </p>
-
 ---
-
-## 🔭 Now
-
-- 📚 Completing **Andrew Ng ML Specialization** — currently on Course 2 (Advanced Learning Algorithms)
-- ⚔️ Grinding **LeetCode** daily — Arrays, Strings & Sliding Window track
-- 🔧 Extending **Splitwise Java** with balance tracking and debt settlement (Phase 3)
-
+🔭 Now
+📚 Completing Andrew Ng ML Specialization — currently on Course 2 (Advanced Learning Algorithms)
+⚔️ Grinding LeetCode daily — Arrays, Strings & Sliding Window track
+🔧 Extending Splitwise Java with balance tracking and debt settlement (Phase 3)
 ---
-
-## 🚀 Projects
-
+🚀 Projects
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -138,7 +112,7 @@ motivation : "I don't use libraries as a crutch — I implement the math first, 
         <img src="https://img.shields.io/badge/Matplotlib-0D1117?style=flat-square&logo=python&logoColor=58A6FF" />
         <img src="https://img.shields.io/badge/Jupyter-0D1117?style=flat-square&logo=jupyter&logoColor=58A6FF" />
       </p>
-      <img src="https://img.shields.io/badge/R²-0.6485-238636?style=flat-square&labelColor=0D1117" />
+      <img src="https://img.shields.io/badge/R%C2%B2-0.6485-238636?style=flat-square&labelColor=0D1117" />
       &nbsp;
       <img src="https://img.shields.io/badge/Status-Completed-238636?style=flat-square&labelColor=0D1117" />
       &nbsp;
@@ -156,36 +130,22 @@ motivation : "I don't use libraries as a crutch — I implement the math first, 
     </td>
   </tr>
 </table>
-
 ---
-
-## 🧩 DSA Progress
-
+🧩 DSA Progress
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/LunarX?theme=dark&font=JetBrains+Mono&ext=heatmap" />
 </p>
-
 ---
-
-## 📈 Contribution Graph
-
+📈 Contribution Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=HarryPotter2007&theme=github-compact&hide_border=true&color=58A6FF&line=58A6FF&point=FFFFFF" />
 </p>
-
 ---
-
-## ✍️ Dev Quote
-
+✍️ Dev Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </p>
-
 ---
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0D1117,50:161B22,100:0D1117" />
 </p>
-```
-
-> **Note:** In the About Me block, make sure the closing triple backtick (` ``` `) has no spaces — I added spaces above to avoid formatting issues in this chat. In your actual README it should be just ` ``` ` on its own line.
