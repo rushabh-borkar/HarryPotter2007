@@ -39,12 +39,7 @@ stack:
 currently:
   - Grinding DSA daily
   - Building ML projects from scratch
-  - Learning system design fundamentals
 
-goals:
-  - Crack top internships
-  - Become a strong software engineer
-  - Build impactful AI products
 ```
 
 ---
